@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJPE2n7tNpUfcuMJOuFu58sk4fCYypofZ0HWw0MZXKg/7tILE40bF0laynlYoxQlR99M9YFTrmE7ZrfMMiqQVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\ConsolePhotos\\ConsoleApp1\\ConsolePhotos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
